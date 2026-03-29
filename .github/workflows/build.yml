@@ -31,8 +31,8 @@ jobs:
          
           cat <<EOF > capacitor.config.json
           {
-            "appId": "com.ec.aoo",
-            "appName": "testapp",
+            "appId": "com.tamim.todo",
+            "appName": "Tamim's Todo",
             "webDir": "dist",
             "server": {
               "androidScheme": "https",
